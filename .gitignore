@@ -1,0 +1,8 @@
+dist/
+android/key.properties
+*.jks
+*.keystore
+*.p12
+*.pfx
+__pycache__/
+*.pyc
